@@ -1,4 +1,4 @@
-Hi, I'm Duckie. I'm primarily use Rust and enjoy web and game development.
+Hi, I'm Duckie. I primarily use Rust and enjoy web and game development.
 
 <!---
 DuckieJayd/DuckieJayd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
